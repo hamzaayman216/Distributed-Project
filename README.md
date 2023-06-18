@@ -4,7 +4,7 @@ This project implements a 2D multiplayer Car Racing Game usingpygame. Players ca
 This game utilizes various technologies and concepts, like Sockets Programming to establish communication between the game server and connected clients. Sockets allow for real-time data transmission over the network. Also Threading is employed to handle multiple client connections concurrently. Each client is assigned a separate thread, allowing for simultaneous gameplay and communication.</br>
 
 
-we have two python files:
+We have two python files:
 
 <ol>
   <li> The <b> server.py </b> file contains the server-side implementation of the game. It uses sockets to establish connections with multiple clients and coordinate the gameplay.</li> 
