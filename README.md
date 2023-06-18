@@ -38,7 +38,7 @@ Before running the game, ensure that you have the following software installed o
   </br>
   </ol>
   
- # Snippits of players playing the game
+ # Snippets of players playing the game
  
  <p> Two players playing and one of them started using the chatting feature</p>
 
