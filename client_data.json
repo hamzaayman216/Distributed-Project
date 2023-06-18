@@ -1,8 +1,8 @@
 {
   "ip": "213.226.119.174",
   "port": 6666,
-  "start_screen_image": "C:\\Users\\moham\\OneDrive\\Desktop\\game\\start_screen.png",
-  "track_image": "C:\\Users\\moham\\OneDrive\\Desktop\\game\\track.png",
-  "car_image":"C:\\Users\\moham\\OneDrive\\Desktop\\game\\car.png",
-  "enemy_car_image": "C:\\Users\\moham\\OneDrive\\Desktop\\game\\enemy_car.png"
+  "start_screen_image": "start_screen.png",
+  "track_image": "track.png",
+  "car_image":"car.png",
+  "enemy_car_image": "enemy_car.png"
 }
